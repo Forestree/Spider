@@ -3,3 +3,5 @@
 *.xlsx
 *.swp
 data
+__pycache__
+*.pkl
